@@ -43,6 +43,8 @@ Sorting using ORDER BY
 
 
 
+
+
 🔸 4. Customer Segmentation
 
 Customers were segmented into:
