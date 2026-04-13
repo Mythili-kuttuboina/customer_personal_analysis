@@ -42,6 +42,7 @@ Filtering and grouping using WHERE, GROUP BY
 Sorting using ORDER BY
 
 
+
 🔸 4. Customer Segmentation
 
 Customers were segmented into:
