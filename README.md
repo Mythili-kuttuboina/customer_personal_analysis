@@ -40,7 +40,7 @@ Used SQL queries to extract insights:
 Aggregate functions: SUM(), AVG(), COUNT()
 Filtering and grouping using WHERE, GROUP BY
 Sorting using ORDER BY
-
+!where(https://github.com/Mythili-kuttuboina/customer_personal_analysis/blob/main/where.png?raw=true)
 
 
 
