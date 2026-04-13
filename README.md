@@ -63,24 +63,29 @@ Customers were segmented into:
 High-value customers
 Medium-value customers
 Low-value customers
+
 📈 Key Insights
 High-income customers contribute more to total revenue
 Wine and meat products have the highest sales
 Customers with frequent web visits are more likely to purchase
 Marketing campaign success varies across customer segments
+
 🛠️ Tools & Technologies
 Database: MySQL
 Language: SQL
 Visualization (optional): Power BI / Excel
+
 🚀 Outcome
 Built a structured customer database
 Generated actionable insights
 Enabled better business decision-making
+
 📌 Use Cases
 Targeted marketing campaigns
 Customer retention strategies
 Product recommendations
 Sales and performance analysis
+
 ⭐ Future Enhancements
 Integration with visualization tools like Power BI
 Predictive analysis using Machine Learning
