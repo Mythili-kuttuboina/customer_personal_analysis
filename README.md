@@ -41,10 +41,15 @@ Aggregate functions: SUM(), AVG(), COUNT()
 Filtering and grouping using WHERE, GROUP BY
 Sorting using ORDER BY
 ![where](https://github.com/Mythili-kuttuboina/customer_personal_analysis/blob/main/where.png?raw=true)
+
 ![view](https://github.com/Mythili-kuttuboina/customer_personal_analysis/blob/main/view.png?raw=true)
+
 ![total_spending_customer](https://github.com/Mythili-kuttuboina/customer_personal_analysis/blob/main/total_spending_customer.png?raw=true)
+
 ![subquery](https://github.com/Mythili-kuttuboina/customer_personal_analysis/blob/main/subquery.png?raw=true)
+
 ![select_table](https://github.com/Mythili-kuttuboina/customer_personal_analysis/blob/main/select_table.png?raw=true)
+
 ![group_by](https://github.com/Mythili-kuttuboina/customer_personal_analysis/blob/main/group_by.png?raw=true)
 
 
