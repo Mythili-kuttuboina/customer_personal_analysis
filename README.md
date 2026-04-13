@@ -8,6 +8,7 @@ Understand customer purchasing behavior
 Identify high-value customers
 Analyze product-wise spending patterns
 Segment customers for targeted marketing
+
 📁 Dataset Description
 
 The dataset includes the following key features:
@@ -25,12 +26,14 @@ Other Metrics – Recency, complaints, web visits
 Handled missing and null values
 Converted data types (especially date fields)
 Removed inconsistencies
+
 🔸 2. Feature Engineering
 Created new columns:
 Customer_Age from Year_Birth
 Total_Spending (sum of all product categories)
 Customer_Tenure from Dt_Customer
 Categorized customers based on income and spending
+
 🔸 3. Data Analysis (SQL)
 
 Used SQL queries to extract insights:
@@ -39,7 +42,7 @@ Aggregate functions: SUM(), AVG(), COUNT()
 Filtering and grouping using WHERE, GROUP BY
 Sorting using ORDER BY
 
-!
+
 🔸 4. Customer Segmentation
 
 Customers were segmented into:
