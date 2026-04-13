@@ -1,5 +1,4 @@
 📊 Customer Personal Analysis using MySQL
-🔹 Project Overview
 
 This project analyzes customer data using MySQL to uncover insights into customer behavior, spending habits, and demographics. The analysis helps businesses make data-driven decisions to improve marketing strategies, customer retention, and overall performance.
 
