@@ -40,15 +40,25 @@ Used SQL queries to extract insights:
 Aggregate functions: SUM(), AVG(), COUNT()
 Filtering and grouping using WHERE, GROUP BY
 Sorting using ORDER BY
+
+WHERE
 ![where](https://github.com/Mythili-kuttuboina/customer_personal_analysis/blob/main/where.png?raw=true)
 
+view
+
 ![view](https://github.com/Mythili-kuttuboina/customer_personal_analysis/blob/main/view.png?raw=true)
+total_spending_customer
 
 ![total_spending_customer](https://github.com/Mythili-kuttuboina/customer_personal_analysis/blob/main/total_spending_customer.png?raw=true)
+subquery
+
 
 ![subquery](https://github.com/Mythili-kuttuboina/customer_personal_analysis/blob/main/subquery.png?raw=true)
+using select
 
 ![select_table](https://github.com/Mythili-kuttuboina/customer_personal_analysis/blob/main/select_table.png?raw=true)
+group by
+
 
 ![group_by](https://github.com/Mythili-kuttuboina/customer_personal_analysis/blob/main/group_by.png?raw=true)
 
