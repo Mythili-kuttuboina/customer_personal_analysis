@@ -5,7 +5,7 @@ This project focuses on analyzing customer data to extract meaningful insights u
 
 The goal of this project is to understand customer behavior, identify patterns, and support data-driven decision-making. 
 
- #Key Features
+ ##Key Features
  
 ✅ Data Cleaning & Preprocessing  
 ✅ Exploratory Data Analysis (EDA)  
