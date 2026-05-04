@@ -30,4 +30,41 @@ Exploratory Data Analysis (EDA)
 Analyzed customer demographics and behavior  
 Identified trends and patterns  
 Handled missing values and data inconsistencies  
-Generated visual insights using graphs  
+Generated visual insights using graphs 
+
+ Data Visualization  
+
+Bar Charts  
+Line Charts  
+Distribution Plots  
+Correlation Heatmaps  
+
+These visualizations help in understanding customer patterns and relationships between variables.  
+
+Machine Learning Model  
+
+🔹 K-Nearest Neighbors (KNN)  
+Used for customer classification/prediction  
+Data was scaled before training  
+Model evaluated using accuracy metrics  
+
+SQL Analysis  
+
+Created structured database tables  
+Wrote queries for:  
+Customer segmentation  
+Aggregations (AVG, SUM, COUNT)  
+Filtering & sorting  
+Performance optimization (indexes)
+
+Dashboard (Power BI)  
+
+Interactive dashboard created using Power BI  
+Includes:  
+Customer insights  
+Key metrics  
+Visual reports  
+Helps stakeholders easily understand data  
+
+Installation and Setup
+1.Clone the repository:git clone https://github.com/mythili-kuttuboina/customer-personal-analysis.git
